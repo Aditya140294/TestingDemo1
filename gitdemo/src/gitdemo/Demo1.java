@@ -5,6 +5,7 @@ public class Demo1 {
 		System.out.println("first git project");
 	
 		System.out.println(" second line first git project");
+		System.out.println("third line of first git project");
 		
 	}
 	
